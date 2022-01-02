@@ -1,4 +1,4 @@
-[jobs.mem2reg]
+[jobs.mdarray]
 
 image = { source = "dockerfile", path = ".", tag = "pascal-lex-example" }
 
